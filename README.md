@@ -37,7 +37,7 @@ Follow the steps below to get the project up and running on your local machine:
 ## 🧑‍💻 Developer Information
 
 - **Developer**: [@AnkuByte](https://t.me/AnkuByte) 💬
-- **GitHub**: [Ankuucode](https://github.com/AnkuByte) 🚀
+- **GitHub**: [AnkuByte](https://github.com/AnkuByte) 🚀
 
 
    
