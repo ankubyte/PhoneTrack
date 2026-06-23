@@ -25,7 +25,7 @@ Follow the steps below to get the project up and running on your local machine:
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/AnkuByte/PhoneInfo.git
+   git clone https://github.com/AnkuByte/PhoneTrack.git
    cd Phonetrack
    pip install -r requirements.txt
    ```
