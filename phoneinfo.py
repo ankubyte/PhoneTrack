@@ -18,8 +18,8 @@ def logo(name):
     banner = pyfiglet.figlet_format(name, font="slant")
     print(f"{green}_______________________________")
     print(f"\033[1m\033[31m{banner}\033[0m") 
-    print(f"{yellow}Code Dev: @AnkuCode\n")
-    print(f"{yellow}Telegram: @AnkuCode\n")
+    print(f"{yellow}Code Dev: @AnkuByte\n")
+    print(f"{yellow}Telegram: @AnkuByte\n")
     print(f"{yellow}Its a Basic Phone info Tool\n")
     print(f"{green}_______________________________")
  
@@ -48,7 +48,7 @@ while True:
         # print(res)
         for i,j in res.items():
             print(f"{cyan}{i} : {green}{j}{white}")
-        print(f"{cyan}Developer : {green}@AnkuCode")
+        print(f"{cyan}Developer : {green}@AnkuByte")
         inn=input(f'{red}Do You want to continue? y/n >> {yellow}{white}')
         if inn.lower().strip()=='y':
             continue
